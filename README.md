@@ -100,11 +100,6 @@ The key is the English text, so rewording a string makes a new entry rather than
 
 Stable and under active development.
 
-The Services tab shows installed formula services, their status, owner, login registration and
-service/log paths. Filter by All, Running or Stopped and start, stop or restart a current-user service
-from its detail pane. Commands and output appear in the console. Successful actions preserve the login
-setting; configure login registration and manage system or other-user services in Terminal.
-
 ## 📄 Licence
 
 [AGPL-3.0](LICENSE). If you reuse or adapt the source the AGPL terms apply, including the network-use clause.
